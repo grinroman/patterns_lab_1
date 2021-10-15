@@ -1,0 +1,13 @@
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\bin\Debug\netcoreapp3.1\lab_real_1_patterns.exe
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\bin\Debug\netcoreapp3.1\lab_real_1_patterns.deps.json
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\bin\Debug\netcoreapp3.1\lab_real_1_patterns.runtimeconfig.json
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\bin\Debug\netcoreapp3.1\lab_real_1_patterns.runtimeconfig.dev.json
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\bin\Debug\netcoreapp3.1\lab_real_1_patterns.dll
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\bin\Debug\netcoreapp3.1\lab_real_1_patterns.pdb
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\obj\Debug\netcoreapp3.1\lab_real_1_patterns.csprojAssemblyReference.cache
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\obj\Debug\netcoreapp3.1\lab_real_1_patterns.AssemblyInfoInputs.cache
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\obj\Debug\netcoreapp3.1\lab_real_1_patterns.AssemblyInfo.cs
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\obj\Debug\netcoreapp3.1\lab_real_1_patterns.csproj.CoreCompileInputs.cache
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\obj\Debug\netcoreapp3.1\lab_real_1_patterns.dll
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\obj\Debug\netcoreapp3.1\lab_real_1_patterns.pdb
+D:\Учёба 4 курс 1 сем\Паттерны проектирования\lab_real_1_patterns\lab_real_1_patterns\obj\Debug\netcoreapp3.1\lab_real_1_patterns.genruntimeconfig.cache
